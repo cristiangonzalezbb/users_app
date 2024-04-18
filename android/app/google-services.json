@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395160498122",
+    "project_id": "flutter-radiotaxi-with-admin",
+    "storage_bucket": "flutter-radiotaxi-with-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395160498122:android:61ea74ebd348de8abca933",
+        "android_client_info": {
+          "package_name": "com.radiotaxiprueba.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZgKndF7yAI7rkP7Lcil3X44qE1adavaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
